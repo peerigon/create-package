@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "peerigon/presets/typescript"
+  ],
+  "root": true
+}
